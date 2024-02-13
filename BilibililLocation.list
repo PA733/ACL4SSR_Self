@@ -1,6 +1,5 @@
 # 内容：Bilibili 哔哩哔哩 归属地 来自 https://github.com/heinu123/bilibili-clash/blob/main/bilibili.yaml
 # 数量：16条
-
 DOMAIN,api.bilibili.tv
 DOMAIN,app.bilibili.com
 DOMAIN,passport.bilibili.com
